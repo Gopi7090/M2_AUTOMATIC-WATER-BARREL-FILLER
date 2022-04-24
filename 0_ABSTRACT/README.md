@@ -1,1 +1,1 @@
-
+A relative asked me if I could create something that automates refilling a water barrel used for watering a small garden greenhouse. They didn’t want to plug in a pump every few hours only to have turn it off again ten minutes later when it has filled up again. So I’ve scavenged some stuff that I had lying around to create a project and decided to make a instructable so that other people might get some inspiration from it.
